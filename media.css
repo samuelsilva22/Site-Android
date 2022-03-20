@@ -1,0 +1,40 @@
+@media screen and (min-width: 970px) and (max-width: 1300px) {
+
+
+    img {
+    
+        max-width: 80%;
+        margin-right: 15px;
+        margin-left: 5px;
+    }
+    
+    
+    .bugdroid img {
+    
+        padding-left: 100px;
+    
+    }
+    
+    li {
+    
+        display: inline-block;
+        padding: 5px 5px 5px 0px;  
+        
+      
+    }
+    
+    
+    iframe {
+        max-width: 80%;
+        background-color: #116329;
+        padding: 30px 49.5px 30px 49.5px;
+    
+    }
+    
+    .header a {
+    
+        font-size: small;
+    }
+    
+    }
+        
